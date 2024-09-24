@@ -1,7 +1,5 @@
 <h1><img src="https://media.tenor.com/_3xu2NCAMnsAAAAi/cute-blob.gif" width="30"/> Hey! Nice to see you. I'm Timothy.</h1>
 
----
-
 <p>Welcome to my page!
 <br>
 I'm Timothy, student for software engineering (B.Sc.) and full time software developer @<a href="https://www.otto.de/">OTTO</a> based in Hamburg, Germany.<br></p>
