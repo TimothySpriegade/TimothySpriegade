@@ -2,7 +2,7 @@
 
 <p>Welcome to my page!
 <br>
-I'm Timothy, a B.Sc. Software Engineering student and full-time software developer @<a href="https://www.otto.de/">OTTO</a> based in Hamburg, Germany.<br></p>
+I'm Timothy, a B.Sc. Software Engineering student and full-time software developer @<a href="https://www.otto.de/unternehmen/">OTTO</a> based in Hamburg, Germany.<br></p>
 
 <h3>Things i know how to work with:</h2>
 
