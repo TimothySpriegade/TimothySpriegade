@@ -19,7 +19,7 @@ I'm Timothy, a B.Sc. Software Engineering student and full-time software develop
 
 ---
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=TimothySpriegade&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=TimothySpriegade&amp;show_icons=true&theme=tokyonight" alt="GitHub Stats"></p>
 
 <h3>Where to find me</h2>
 
