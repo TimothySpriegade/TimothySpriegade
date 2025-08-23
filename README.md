@@ -1,13 +1,13 @@
-<h1><img src="https://media.tenor.com/_3xu2NCAMnsAAAAi/cute-blob.gif" width="30" alt="Cute blob GIF"/> Hey! Nice to see you. I'm Timothy.</h1>
-<p>
+<h1 align="center"><img src="https://media.tenor.com/_3xu2NCAMnsAAAAi/cute-blob.gif" width="30" alt="Cute blob GIF"/> Hey! Nice to see you. I'm Timothy.</h1>
+<p align="center">
     Welcome to my page!<br>
     I'm Timothy, a B.Sc. Software Engineering student and full-time software developer @<a href="https://www.otto.de/unternehmen/">OTTO</a> based in Hamburg, Germany.
 </p>
 <hr>
 
-<h3>Tech Stack I like to work with</h3>
-<h4>Languages</h4>
-<p>
+<h3 align="center">Tech Stack I like to work with</h3>
+<h4 align="right">Languages</h4>
+<p align="right">
     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin badge">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java badge">
     <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script badge">
@@ -24,8 +24,8 @@
     <img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions badge">
 </p>
 
-<h4>Frameworks</h4>
-<p>
+<h4 align="right">Frameworks</h4>
+<p align="right">
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring badge">
     <img src="https://img.shields.io/badge/Ktor-%23087CFA.svg?style=for-the-badge&logo=Ktor&logoColor=white" alt="Ktor badge">
     <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js badge">
@@ -39,8 +39,8 @@
     <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian badge">
 </p>
 
-<h4>Operating Systems</h4>
-<p>
+<h4 align="right">Operating Systems</h4>
+<p align="right">
     <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora badge">
     <img src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch Linux badge">
     <img src="https://img.shields.io/badge/mac os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS badge">
@@ -48,8 +48,8 @@
 
 <hr>
 
-<h3>GitHub Stats</h3>
-<p>
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
     <img src="https://github-contribution-stats.vercel.app/api/?username=timothyspriegade" height="230" alt="Timothy's GitHub Stats" />
     &nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothyspriegade&theme=default&show_icons=true&hide_border=true&layout=compact" height="230" alt="Timothy's Top Languages" />
@@ -57,8 +57,8 @@
 
 <hr>
 
-<h3>Where to find me</h3>
-<p>
+<h3 align="center">Where to find me</h3>
+<p align="center">
     <a href="https://github.com/timothyspriegade" target="_blank"><img alt="GitHub badge" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/timothy-spriegade-13504a287/" target="_blank"><img alt="LinkedIn badge" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
