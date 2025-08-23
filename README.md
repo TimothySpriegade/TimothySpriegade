@@ -36,7 +36,6 @@
 <h4>Software</h4>
 <p>
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA badge">
-    <img src="https://img.shields.io/badge/android studio-346ac1?style=for-the-badge&logo=android studio&logoColor=white" alt="Android Studio badge">
     <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian badge">
 </p>
 
