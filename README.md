@@ -50,9 +50,9 @@
 
 <h3>GitHub Stats</h3>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=TimothySpriegade&theme=slateorange&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="Timothy's GitHub Stats" />
+    <img src="https://github-contribution-stats.vercel.app/api/?username=timothyspriegade" height="170" alt="Timothy's GitHub Stats" />
     &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimothySpriegade&theme=slateorange&show_icons=true&hide_border=true&layout=compact" height="170" alt="Timothy's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothyspriegade&theme=default&show_icons=true&hide_border=true&layout=compact" height="170" alt="Timothy's Top Languages" />
 </p>
 
 <hr>
