@@ -6,8 +6,8 @@
 <hr>
 
 <h3 align="center">Tech Stack I like to work with</h3>
-<h4 align="right">Languages</h4>
-<p align="right">
+<h4>Languages</h4>
+<p>
     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin badge">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java badge">
     <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script badge">
@@ -24,8 +24,8 @@
     <img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions badge">
 </p>
 
-<h4 align="right">Frameworks</h4>
-<p align="right">
+<h4>Frameworks</h4>
+<p>
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring badge">
     <img src="https://img.shields.io/badge/Ktor-%23087CFA.svg?style=for-the-badge&logo=Ktor&logoColor=white" alt="Ktor badge">
     <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js badge">
@@ -39,8 +39,8 @@
     <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian badge">
 </p>
 
-<h4 align="right">Operating Systems</h4>
-<p align="right">
+<h4>Operating Systems</h4>
+<p>
     <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora badge">
     <img src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch Linux badge">
     <img src="https://img.shields.io/badge/mac os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS badge">
