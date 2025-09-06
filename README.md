@@ -43,8 +43,11 @@ I'm Timothy, a B.Sc. Software Engineering student and full-time software develop
 
 ### GitHub Stats
 
-![Timothy's GitHub Stats](https://github-contribution-stats.vercel.app/api/?username=timothyspriegade)
-![Timothy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timothyspriegade&theme=default&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=timothyspriegade" height="230" alt="Timothy's GitHub Stats" />
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothyspriegade&theme=default&show_icons=true&hide_border=true&layout=compact" height="230" alt="Timothy's Top Languages" />
+</p>
 
 <h1>
 </h1>
