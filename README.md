@@ -2,6 +2,7 @@
 
 Welcome to my page!  
 I'm Timothy, a B.Sc. Software Engineering student and full-time software developer [@OTTO](https://www.otto.de/unternehmen/) based in Hamburg, Germany.
+
 <h1>
 </h1>
 
