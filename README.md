@@ -25,7 +25,6 @@ GitHub Stats
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothyspriegade&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="200" alt="Timothy's Top Languages" />
 </p>
 
-### Where to find me
 <h1>
 </h1>
 
