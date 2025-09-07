@@ -3,9 +3,10 @@
 Welcome to my page!  
 I'm Timothy, a B.Sc. Software Engineering student and full-time software developer [@OTTO](https://www.otto.de/unternehmen/) based in Hamburg, Germany.
 
-### My go-to tech stack:
-<h1>
-</h1>
+### 
+<h3>
+My go-to tech stack:
+</h3>
 
 ![Kotlin badge](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -14,9 +15,9 @@ I'm Timothy, a B.Sc. Software Engineering student and full-time software develop
 ![Golang badge](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Shell Script badge](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### GitHub Stats
-<h1>
-</h1>
+<h3>
+GitHub Stats
+</h3>
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=timothyspriegade&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="175" alt="Timothy's GitHub Stats" />
