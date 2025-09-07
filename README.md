@@ -19,7 +19,7 @@ I'm Timothy, a B.Sc. Software Engineering student and full-time software develop
 </h1>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=timothyspriegade&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="200" alt="Timothy's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=timothyspriegade&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="Timothy's GitHub Stats" />
     &nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothyspriegade&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="200" alt="Timothy's Top Languages" />
 </p>
