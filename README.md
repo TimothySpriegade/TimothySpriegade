@@ -18,6 +18,8 @@ timothy := map[string]interface{}{
 [![GitHub badge](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white)](https://github.com/timothyspriegade)
 [![LinkedIn badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-spriegade-13504a287/)
 
+<h1>
+</h1>
 
 ### Current Projects
 <!-- credit to Dr.-Ing. Sebastian Hahner copied those from his readme -->
@@ -37,7 +39,7 @@ GitHub Stats
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=timothyspriegade&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="125" alt="Timothy's GitHub Stats" />
     &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothyspriegade&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="160" alt="Timothy's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothyspriegade&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="120" alt="Timothy's Top Languages" />
 </p>
 
 <h1>
