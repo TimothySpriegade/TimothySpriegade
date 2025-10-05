@@ -36,9 +36,9 @@ An interpreter for Mycelium, a small statically-typed language built in Go while
 GitHub Stats
 </h4>
 <p>
-    <img src="https://raw.githubusercontent.com/TimothySpriegade/github-stats-transparent/output/generated/overview.svg" height="135" alt="Timothy's GitHub Stats" />
+    <img src="https://raw.githubusercontent.com/TimothySpriegade/github-stats-transparent/output/generated/overview.svg" height="150" alt="Timothy's GitHub Stats" />
     &nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/TimothySpriegade/github-stats-transparent/output/generated/languages.svg" height="135" alt="Timothy's Top Languages" />
+    <img src="https://raw.githubusercontent.com/TimothySpriegade/github-stats-transparent/output/generated/languages.svg" height="150" alt="Timothy's Top Languages" />
 </p>
 
 <p align="center">
