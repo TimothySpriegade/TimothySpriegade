@@ -5,7 +5,7 @@
 
 ```go
 timothy := map[string]interface{}{
-    "name:          "Timothy",
+    "name":         "Timothy",
     "pronouns":     "he/him",
     "code":         []string{"Kotlin", "Java", "Go", "TypeScript", "Shell"},
     "tools":        []string{"Spring Boot","Ktor","Vue.js","Docker","Terraform"},
