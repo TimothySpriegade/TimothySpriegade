@@ -5,9 +5,9 @@
 
 ```go
 timothy := map[string]interface{}{
-    "name:          "Timothy Spriegade",
+    "name:          "Timothy",
     "pronouns":     "he/him",
-    "code":         []string{"Kotlin", "Java", "Go", "TypeScript", "JavaScript", "Shell"},
+    "code":         []string{"Kotlin", "Java", "Go", "TypeScript", "Shell"},
     "tools":        []string{"Spring Boot","Ktor","Vue.js","Docker","Terraform"},
     "cloud":        []string{"AWS", "GCP"}
     "currentFocus": "Building a lot of existing technology from scratch to improve understanding",
@@ -35,15 +35,11 @@ An interpreter for Mycelium, a small statically-typed language built in Go while
 <h4>
 GitHub Stats
 </h4>
-
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=timothyspriegade&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="125" alt="Timothy's GitHub Stats" />
+    <img src="https://raw.githubusercontent.com/TimothySpriegade/github-stats-transparent/output/generated/overview.svg" height="135" alt="Timothy's GitHub Stats" />
     &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothyspriegade&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="125" alt="Timothy's Top Languages" />
+    <img src="https://raw.githubusercontent.com/TimothySpriegade/github-stats-transparent/output/generated/languages.svg" height="135" alt="Timothy's Top Languages" />
 </p>
-
-<h1>
-</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
