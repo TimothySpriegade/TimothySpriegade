@@ -32,14 +32,14 @@ An interpreter for Mycelium, a small statically-typed language built in Go while
 <h1>
 </h1>
 
-<h3>
+<h4>
 GitHub Stats
-</h3>
+</h4>
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=timothyspriegade&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="125" alt="Timothy's GitHub Stats" />
     &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothyspriegade&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="120" alt="Timothy's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothyspriegade&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="125" alt="Timothy's Top Languages" />
 </p>
 
 <h1>
