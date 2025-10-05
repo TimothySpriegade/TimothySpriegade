@@ -20,11 +20,11 @@ timothy := map[string]interface{}{
 
 
 ### Current Projects
-
-<p><a href="https://github.com/sebinside/HotkeylessAHK"><img src="assets/8Stash Logo.png" height=50 align=left style="border-radius: 50%;"></a><b>8Stash</b><br>
+<!-- credit to Dr.-Ing. Sebastian Hahner copied those from his readme -->
+<p><a href="https://github.com/TimothySpriegade/8stash"><img src="assets/8Stash Logo.png" height=55 align=left></a><b>8Stash</b><br>
 A lightweight Go CLI tool that saves your work-in-progress to temporary remote branches for seamless handoffs during pair programming and cross-machine workflows</p>
 
-<p><a href="https://github.com/sebinside/HotkeylessAHK"><img src="assets/Mycelium Logo.png" height=50 align=left style="border-radius: 50%;"></a><b>mycelium</b><br>
+<p><a href="https://github.com/TimothySpriegade/mycelium"><img src="assets/Mycelium Logo.png" height=55 align=left></a><b>mycelium</b><br>
 An interpreter for Mycelium, a small statically-typed language built in Go while learning compiler design from 'Writing an Interpreter in Go'</p>
 
 <h1>
