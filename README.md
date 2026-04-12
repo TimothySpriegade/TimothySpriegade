@@ -3,16 +3,17 @@
 <p><em>B.Sc. Software Engineering Student at <a href="https://www.nordakademie.de/en/">Nordakademie</a><img src="https://media.tenor.com/5miqL4qPOGgAAAAi/school-book.gif" width="30"></br>Full Time Software Developer at <a href="https://www.otto.de/unternehmen/">OTTO</a>&nbsp;<img src="https://media.tenor.com/zCTiNXF73CEAAAAi/work-thinking.gif" width="30"> 
 </em></p>
 
-```go
-timothy := map[string]interface{}{
-    "name":         "Timothy",
-    "pronouns":     "he/him",
-    "code":         []string{"Kotlin", "Java", "Go", "TypeScript", "Shell"},
-    "tools":        []string{"Spring Boot","Ktor","Vue.js","Docker","Terraform"},
-    "cloud":        []string{"AWS", "GCP"}
-    "currentFocus": "Building a lot of existing technology from scratch to improve understanding",
-    "learning":     "Golang, How Programming Languages Work",
-}
+```rust
+let timothy = Developer {
+    name: "Timothy",
+    nickname: "Tim",
+    pronouns: "he/him",
+    code: vec!["Kotlin", "Java", "Rust", "go","TypeScript", "Shell"],
+    tools: vec!["Spring Boot", "Ktor", "Vue.js", "Docker", "Terraform"],
+    cloud: vec!["AWS", "GCP"],
+    current_focus: "writing small projects that fix my own problems and learning new languages and tools in the process",
+    learning: "Rust",
+};
 ```
 
 [![GitHub badge](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white)](https://github.com/timothyspriegade)
