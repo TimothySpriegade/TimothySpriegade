@@ -16,32 +16,15 @@ let timothy = Developer {
 };
 ```
 
-[![GitHub badge](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white)](https://github.com/timothyspriegade)
+[![Codeberg badge](https://shields.io/badge/timothyspriegade-3f72af?logo=codeberg)](https://codeberg.org/timothyspriegade)
 [![LinkedIn badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-spriegade-13504a287/)
 
 <h1>
 </h1>
 
-### Current Projects
-<!-- credit to Dr.-Ing. Sebastian Hahner copied those from his readme -->
-<p><a href="https://github.com/TimothySpriegade/8stash"><img src="assets/8Stash Logo.png" height=55 align=left></a><b>8Stash</b><br>
-A lightweight Go CLI tool that saves your work-in-progress to temporary remote branches for seamless handoffs during pair programming and cross-machine workflows</p>
-
-<p><a href="https://github.com/TimothySpriegade/mycelium"><img src="assets/Mycelium Logo.png" height=55 align=left></a><b>mycelium</b><br>
-An interpreter for Mycelium, a small statically-typed language built in Go while learning compiler design from 'Writing an Interpreter in Go'</p>
-
-<h1>
-</h1>
-
-<h4>
-GitHub Stats
-</h4>
-<p>
-    <img src="https://raw.githubusercontent.com/TimothySpriegade/github-stats-transparent/output/generated/overview.svg" height="150" alt="Timothy's GitHub Stats" />
-    &nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/TimothySpriegade/github-stats-transparent/output/generated/languages.svg" height="150" alt="Timothy's Top Languages" />
-</p>
-
+### Disclaimer - Current Projects
+> This GitHub page is mostly not used anymore due to me switching to Codeberg because I do not like the direction Microsoft is going with GitHub.
+> This page therefore consists mostly of either mirrored repositories or archived projects for archival purposes. To see my current projects, please check out my Codeberg page: [https://codeberg.org/timothyspriegade](https://codeberg.org/timothyspriegade)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
